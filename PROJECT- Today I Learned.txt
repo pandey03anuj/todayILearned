@@ -1,0 +1,21 @@
+PROJECT- Today I Learned			http://localhost:3000/
+
+https://todayilearned-anuj.netlify.app/
+
+React(17/3) Creating different Components.
+
+header component
+NewFactForm component
+CategoryFilter comp
+FactsList comp
+
+Here style works differently
+there it was in string now here in javascript
+like backgroundColor is a property and string "Blue" as value
+
+"Whenever somethings need to be changed on the screen we use STATE variables in React" 
+
+React wants full control of input forms so we perform event handling
+Have to fix this LATER if words in the input exceeds 200 the counter goes to negative values 
+
+NOTE: await function can only be used in async function
